@@ -14,6 +14,7 @@ The variables representing the average, minimum, and maximum values will be stor
 and the parent thread will output the values once the workers have exited.
 
 Solution : given in program que2.c
+
 output file : que2.jpg
 
 25. Design a program using concepts of inter-process communication ordinary pipes in which one process sends a string message
@@ -23,4 +24,5 @@ one for sending the original message from the first to the second process and th
 the second to the first process. You can write this program using either UNIX or Windows pipes.
 
 Solution : Given in program que25.c
+
 output file que25.jpg
